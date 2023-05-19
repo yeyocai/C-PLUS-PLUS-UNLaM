@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1633816649 source:c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1633816649 c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\fecha\fecha.h
+	<iostream>
+
+1633740228 source:c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\fecha\fecha.cpp
+	<iostream>
+	<time.h>
+	"Fecha.h"
+
+1633816649 source:c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\3 - fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1634587175 c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\3 - fecha\fecha.h
+	<iostream>
+
+1634588459 source:c:\users\asd\desktop\c++\3 - fecha\fecha.cpp
+	<iostream>
+	<time.h>
+	"Fecha.h"
+
+1634587175 c:\users\asd\desktop\c++\3 - fecha\fecha.h
+	<iostream>
+
+1633816649 source:c:\users\asd\desktop\c++\3 - fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1683761368 source:c:\users\jesi\desktop\repo github\c++\fecha\fecha.cpp
+	<iostream>
+	<time.h>
+	"Fecha.h"
+
+1683761368 c:\users\jesi\desktop\repo github\c++\fecha\fecha.h
+	<iostream>
+
+1683761368 source:c:\users\jesi\desktop\repo github\c++\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1683761368 source:c:\users\jesi\desktop\repo github\fechas\fecha\main.cpp
+	<iostream>
+	"Fecha.h"
+
+1684529857 c:\users\jesi\desktop\repo github\fechas\fecha\fecha.h
+	<iostream>
+
