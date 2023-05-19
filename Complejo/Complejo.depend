@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1614985688 source:c:\users\asd\desktop\progra 2c 2020\tcp\complejo\complejo.cpp
+	<iostream>
+	"Complejo.h"
+
+1603498207 c:\users\asd\desktop\progra 2c 2020\tcp\complejo\complejo.h
+	<iostream>
+
+1606573410 source:c:\users\asd\desktop\progra 2c 2020\tcp\complejo\main.cpp
+	<iostream>
+	"Complejo.h"
+
+1614985688 source:c:\users\asd\desktop\unlam\progra 2c 2020\tcp\complejo\complejo.cpp
+	<iostream>
+	"Complejo.h"
+
+1603498207 c:\users\asd\desktop\unlam\progra 2c 2020\tcp\complejo\complejo.h
+	<iostream>
+
+1606573410 source:c:\users\asd\desktop\unlam\progra 2c 2020\tcp\complejo\main.cpp
+	<iostream>
+	"Complejo.h"
+
+1683760856 source:c:\users\jesi\desktop\repo github\c++\complejo\complejo.cpp
+	<iostream>
+	"Complejo.h"
+
+1683760762 c:\users\jesi\desktop\repo github\c++\complejo\complejo.h
+	<iostream>
+
+1683760433 source:c:\users\jesi\desktop\repo github\c++\complejo\main.cpp
+	<iostream>
+	"Complejo.h"
+

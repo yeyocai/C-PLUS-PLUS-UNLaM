@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1605947524 source:c:\users\asd\desktop\reda2-2c_poo\main.cpp
+	<iostream>
+	"Recta.h"
+
+1605942034 c:\users\asd\desktop\reda2-2c_poo\include\recta.h
+	<iostream>
+	"Punto.h"
+
+1605947679 c:\users\asd\desktop\reda2-2c_poo\include\punto.h
+	<iostream>
+
+1605947679 source:c:\users\asd\desktop\reda2-2c_poo\src\punto.cpp
+	<math.h>
+	"Punto.h"
+
+1605947679 source:c:\users\asd\desktop\reda2-2c_poo\src\recta.cpp
+	<math.h>
+	"RectaException.h"
+	"Recta.h"
+
+1605947679 c:\users\asd\desktop\reda2-2c_poo\include\rectaexception.h
+	<string>
+
+1605947403 source:c:\users\asd\desktop\reda2-2c_poo\src\rectaexception.cpp
+	"RectaException.h"
+
+1605947524 source:c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\main.cpp
+	<iostream>
+	"Recta.h"
+
+1605942034 c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\include\recta.h
+	<iostream>
+	"Punto.h"
+
+1605947679 c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\include\punto.h
+	<iostream>
+
+1605947679 source:c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\src\punto.cpp
+	<math.h>
+	"Punto.h"
+
+1605947679 source:c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\src\recta.cpp
+	<math.h>
+	"RectaException.h"
+	"Recta.h"
+
+1605947679 c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\include\rectaexception.h
+	<string>
+
+1605947403 source:c:\users\asd\desktop\progra 2c 2020\semana 12\reda2\entregado\reda2-2c_poo\src\rectaexception.cpp
+	"RectaException.h"
+
+1605947524 source:c:\users\jesi\desktop\repo github\c++\punto y recta\main.cpp
+	<iostream>
+	"Recta.h"
+
+1683848598 c:\users\jesi\desktop\repo github\c++\punto y recta\include\recta.h
+	<iostream>
+	"Punto.h"
+
+1683848598 c:\users\jesi\desktop\repo github\c++\punto y recta\include\punto.h
+	<iostream>
+
+1605947403 source:c:\users\jesi\desktop\repo github\c++\punto y recta\src\rectaexception.cpp
+	"RectaException.h"
+
+1605947679 c:\users\jesi\desktop\repo github\c++\punto y recta\include\rectaexception.h
+	<string>
+
+1683848696 source:c:\users\jesi\desktop\repo github\c++\punto y recta\src\punto.cpp
+	<math.h>
+	"Punto.h"
+
+1683848696 source:c:\users\jesi\desktop\repo github\c++\punto y recta\src\recta.cpp
+	<math.h>
+	"RectaException.h"
+	"Recta.h"
+
