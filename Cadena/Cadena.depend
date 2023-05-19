@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1634606221 source:c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\cadena\main.cpp
+	<iostream>
+	"Cadena.h"
+
+1634606316 c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\cadena\cadena.h
+	<iostream>
+
+1634650551 source:c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\4 - cadena (memoria dinamica)\main.cpp
+	<iostream>
+	"Cadena.h"
+
+1634650971 c:\users\asd\desktop\progra 2c 2021\tcp\ejercicios miel\4 - cadena (memoria dinamica)\cadena.h
+	<iostream>
+
+1634654094 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\tcp\c++\4 - cadena (memoria dinamica)\cadena.cpp
+	<string.h>
+	"Cadena.h"
+
+1634654119 c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\tcp\c++\4 - cadena (memoria dinamica)\cadena.h
+	<iostream>
+
+1634650551 source:c:\users\jesi\desktop\salvar\nuevo\escritorio\unlam\programacion\progra 2c 2021 pezzolla - ultimo cuatri aprobado en final\tcp\c++\4 - cadena (memoria dinamica)\main.cpp
+	<iostream>
+	"Cadena.h"
+
