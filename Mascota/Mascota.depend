@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1603806278 source:c:\users\asd\desktop\progra 2c 2020\tcp\mascota\main.cpp
+	<iostream>
+	"Mascota.h"
+
+1603807382 c:\users\asd\desktop\progra 2c 2020\tcp\mascota\mascota.h
+	<string>
+
+1603807382 source:c:\users\asd\desktop\progra 2c 2020\tcp\mascota\mascota.cpp
+	<iostream>
+	"Mascota.h"
+
+1634397867 source:c:\users\asd\desktop\unlam\progra 2c 2020\tcp\mascota\mascota.cpp
+	<iostream>
+	<string>
+	"Mascota.h"
+
+1603807382 c:\users\asd\desktop\unlam\progra 2c 2020\tcp\mascota\mascota.h
+	<string>
+
+1634397777 source:c:\users\asd\desktop\unlam\progra 2c 2020\tcp\mascota\main.cpp
+	<iostream>
+	"Mascota.h"
+
+1634397867 source:c:\users\jesi\desktop\repo github\nueva carpeta\mascota\mascota.cpp
+	<iostream>
+	<string>
+	"Mascota.h"
+
+1603807382 c:\users\jesi\desktop\repo github\nueva carpeta\mascota\mascota.h
+	<string>
+
+1684605826 source:c:\users\jesi\desktop\repo github\nueva carpeta\mascota\main.cpp
+	<iostream>
+	<string>
+	"Mascota.h"
+
